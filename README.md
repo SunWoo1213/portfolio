@@ -6,8 +6,7 @@
 
 # 👋 Intro
 
-> 안녕하세요! LLM이 만든 결과를 ***코드로 검증하는 서비스***를 만드는 백엔드 · AI 개발자 이선우입니다.  
-> AI Invest에서는 LLM이 쓴 리포트의 숫자를 코드 게이트로 확인한 뒤에만 저장했고, 관계 메모리 에이전트에서는 비교 방식 5종과 평가 데이터 40건으로 판정 성능을 먼저 쟀습니다.  
+> 안녕하세요! LLM이 만든 결과를 ***코드로 검증하는 서비스***를 만드는 백엔드 · AI 개발자 이선우입니다.   
 > 문제를 어떻게 발견하고 해결했는지는 <a href="https://sunwoolee.notion.site"><img src="https://img.shields.io/badge/-Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" height="20px" style="margin-bottom: -5px" /></a> 에 자세히 정리했습니다.
 
 <br />
