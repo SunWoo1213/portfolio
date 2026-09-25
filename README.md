@@ -1,9 +1,5 @@
 # 📜 이선우 포트폴리오
 
-<br />
-
-# 👋 Intro
-
 > 안녕하세요! LLM이 만든 결과를 ***코드로 검증하는 서비스***를 만드는 백엔드 · AI 개발자 이선우입니다.   
 > 주요 문제 해결 사례는 <a href="https://sunwoolee.notion.site"><img src="https://img.shields.io/badge/-Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" height="20px" style="margin-bottom: -5px" /></a> 에 정리했습니다.
 
